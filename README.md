@@ -1,5 +1,7 @@
 # TypeScript + Node.js + Jest starter template
 
+![Build process](https://github.com/vimson/typescript-nodejs-jest-starter/actions/workflows/main.yml/badge.svg?v=2)
+
 ## How to setup
 
 - checkout the repository
